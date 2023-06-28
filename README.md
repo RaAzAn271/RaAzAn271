@@ -1,3 +1,13 @@
+
+<h3 align="center">
+  Welcome to Rajan Adhikari's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://github.com/SumanSharmaTech"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+learner%2C+and+maker.;A+flutter+Developer.;Student+of+Computer+Science+and+Information+Technology"></a>
+</p>
+
+
 - 👋 Hi, I’m @RaAzAn271
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Dart and Flutter
